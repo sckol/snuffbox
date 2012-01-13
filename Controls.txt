@@ -1,0 +1,24 @@
+
+Remote			Keyboard		Action
+-------------------------------------------------------------------------------------------------
+Up				Cursor Up		Move one position up in menu
+Down			Cursor Down		Move one position down in menu
+Left			Cursor Left		Move one position left in play control
+Right			Cursor Right	Move one position right in play control
+OK				Enter			Execute action on highlighted item or play control button
+Menu			Space			Show/Hide menu
+1-9				1-9				Select and execute action on menu item
+Exit			Backspace		Go to previous menu
+<none>			Home			Go to main menu
+Volume Up		+				Volume Up
+Volume Down		-				Volume Down
+Mute			*				Mute sound
+<none>			z				Previous strem
+<none>			x				Rewind
+Red button		c				Stop
+Green button	v				Pause
+Yellow button	b				Play
+Blue button		n				Fast Forward
+<none>			m				Next stream
+Guide			Tab				Change current menu style
+i				i				Show current stream info
