@@ -1,0 +1,12 @@
+#!/usr/bin/expect --
+# Test expect script to telnet.
+
+spawn telnet 192.168.0.101
+expect "login:"
+send "root\r"
+expect "#"
+send "killall StbMainApp\r"
+expect "#"
+send "exit\r"
+expect eof
+# end of expect script.
